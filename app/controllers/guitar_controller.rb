@@ -1,0 +1,2 @@
+class GuitarController < ApplicationController
+end

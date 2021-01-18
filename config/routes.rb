@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
   
-  get '/', to: "application#home"
+  root to: 'static#home'
 end
